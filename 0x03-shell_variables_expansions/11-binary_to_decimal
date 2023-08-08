@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ((:wq
+echo $((2=BINARY))
