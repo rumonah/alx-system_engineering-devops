@@ -1,3 +1,2 @@
 #!/bin/bash
-tail -1 >> iata
-
+find . -type f -print | wc -1
