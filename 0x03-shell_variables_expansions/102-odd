@@ -1,2 +1,2 @@
 #!/bin/bash
-com -1 <(sort -u head) <(sort -u tail) > -3
+comm -1 <(sort -u head) <(sort -u tail) > -3
