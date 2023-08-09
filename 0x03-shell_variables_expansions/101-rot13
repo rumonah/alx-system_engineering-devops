@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'echo(A-Za-Z)' tr ' echo(N-ZA-Mn-Za-m)'
+echo rot13@rot.com | rot13
