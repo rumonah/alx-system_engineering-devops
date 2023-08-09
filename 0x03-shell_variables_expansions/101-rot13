@@ -1,2 +1,2 @@
 #!/bin/bash
-echo rot13@rot.com | rot13
+tr 'A-Za-Z' 'N-ZA-Mn-zA-M'
